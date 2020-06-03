@@ -22,4 +22,4 @@ generateFile() {
   echo File Copy and Generated
 }
 
-GenerateFile
+generateFile
